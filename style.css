@@ -265,4 +265,7 @@ body {
     left: 0;
     transform: translateX(0);
   }
+   .summary-title {
+    font: var(--Heading-M);
+  }
 }
